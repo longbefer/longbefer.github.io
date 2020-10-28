@@ -237,11 +237,11 @@ function getCookie(cname) {
 
 // if(localStorage.getItem("read")!="1" && navigator.userAgent.indexOf("bot")==-1)window.location.href="https://dxx.wwwtop.top/dxx_help?back="+encodeURIComponent(window.location.href);
 
-// if(getCookie("eruda")=="1"){
-// var src = 'https://cdn.staticfile.org/eruda/2.4.1/eruda.min.js';
-// document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
-// document.write('<scr' + 'ipt>eruda.init();</scr' + 'ipt>');
-// }
+if(getCookie("eruda")=="1"){
+var src = 'https://cdn.staticfile.org/eruda/2.4.1/eruda.min.js';
+document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+document.write('<scr' + 'ipt>eruda.init();</scr' + 'ipt>');
+}
 
 var imgurl="http://h5.cyol.com/special/daxuexi/10olekhqva3/images/icon.jpg";
 var n;
