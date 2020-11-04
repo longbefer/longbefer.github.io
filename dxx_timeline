@@ -3,7 +3,7 @@
         <meta charset="UTF-8">
         <meta name="referrer" content="never">
         <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=0">
-        <title>第十季第三期高仿分享</title>
+        <title>第十季第四期高仿分享</title>
         <link rel="stylesheet" href="//res.wx.qq.com/open/libs/weui/2.3.0/weui.min.css"/>
 		<script src="https://res.wx.qq.com/open/js/jweixin-1.6.0.js"></script>
         <script type="text/javascript" src="https://res.wx.qq.com/open/libs/weuijs/1.2.1/weui.min.js"></script>
@@ -19,7 +19,7 @@
         <div class="weui-cells">
           <div class="weui-cell weui-cell_select-after weui-cell_access">
             <div class="weui-cell__hd"><label class="weui-label">选择文案</label></div>
-            <div class="weui-cell__bd"><select class="weui-select" id="wenan"><option value="“青年大学习”第十季第三期" selected>“青年大学习”第十季第三期</option><option value="我完成了“青年大学习”网上主题团课第十季第三期，你也来试试吧">我完成了“青年大学习”网上主题团课第十季第三期，你也来试试吧</option></select></div>
+            <div class="weui-cell__bd"><select class="weui-select" id="wenan"><option value="“青年大学习”第十季特辑" selected>“青年大学习”第十季特辑</option><option value="我完成了“青年大学习”网上主题团课第十季特辑，你也来试试吧">我完成了“青年大学习”网上主题团课第十季特辑，你也来试试吧</option><option value="满分！我完成了“青年大学习”网上主题团课第十季特辑，你也来试试吧">满分！我完成了“青年大学习”网上主题团课第十季特辑，你也来试试吧</option></select></div>
           </div>
         <div>
         <br>
@@ -118,13 +118,13 @@
             </div>
             <p class="weui-grid__label"><br>QQ名片互赞</p>
         </a>
-        <a href="" class="weui-grid">
+        <a href="https://www.lanzous.com/i8qtang" class="weui-grid">
             <div class="weui-grid__icon">
                 <svg t="1579405961022" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="13767" ><path d="M512.3 0C229.6 0 0.3 229.3 0.3 512s229.2 512 512 512 512-229.3 512-512S795 0 512.3 0zM328.8 740.1c0 21.5-17.6 39.1-39.1 39.1h-65.2c-21.5 0-39.1-17.6-39.1-39.1v-457c0-21.5 17.6-39.1 39.1-39.1h65.2c21.5 0 39.1 17.6 39.1 39.1v457z m182.9 0c0 21.5-17.6 39.1-39.1 39.1h-65.3c-21.5 0-39.1-17.6-39.1-39.1v-457c0-21.5 17.6-39.1 39.1-39.1h65.3c21.5 0 39.1 17.6 39.1 39.1v457z m301.2 14l-61.8 21.3c-20.6 7.1-42.8-3.9-50-24.1L552.4 319c-7.1-20.6 3.9-42.8 24.1-50l61.8-21.3c20.6-7.1 42.8 3.9 50 24.1L837.2 704c7.1 20.8-3.7 43-24.3 50.1z" p-id="13768" fill="#17abe3"></path></svg>
             </div>
             <p class="weui-grid__label"><br>网课查答案</p>
         </a>
-        <a href="" class="weui-grid">
+        <a href="https://www.lanzous.com/b0aeh3uej" class="weui-grid">
             <div class="weui-grid__icon">
                 <svg t="1579406595262" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="16416" ><path d="M512 0C229.376 0 0 229.376 0 512S229.376 1024 512 1024s512-229.376 512-512c0-283.136-229.376-512-512-512z m196.096 619.52s-13.824 38.4-39.936 72.704c0 0 46.08 15.36 41.984 56.32 0 0 1.536 45.056-98.304 41.984 0 0-70.144-5.632-91.136-35.328h-18.432c-20.992 29.696-91.136 35.328-91.136 35.328-99.84 3.072-98.304-41.984-98.304-41.984-4.096-40.448 41.984-56.32 41.984-56.32-25.6-34.304-39.936-72.704-39.936-72.704-62.464 100.864-56.32-13.824-56.32-13.824 11.776-68.096 60.928-112.64 60.928-112.64-7.168-61.44 18.944-72.704 18.944-72.704 5.632-190.976 169.472-187.392 173.056-187.392s167.424-3.584 173.056 187.392c0 0 25.6 10.752 18.944 72.704 0 0 49.152 44.544 60.928 112.64 0-0.512 6.144 114.688-56.32 13.824z" p-id="16417" fill="#17abe3"></path></svg>
             </div>
@@ -235,7 +235,7 @@ function getCookie(cname) {
 } 
 
 
-// if(localStorage.getItem("read")!="1" && navigator.userAgent.indexOf("bot")==-1)window.location.href="https://dxx.wwwtop.top/dxx_help?back="+encodeURIComponent(window.location.href);
+if(localStorage.getItem("read")!="1" && navigator.userAgent.indexOf("bot")==-1)window.location.href="https://dxx.wwwtop.top/dxx_help?back="+encodeURIComponent(window.location.href);
 
 if(getCookie("eruda")=="1"){
 var src = 'https://cdn.staticfile.org/eruda/2.4.1/eruda.min.js';
@@ -243,7 +243,7 @@ document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
 document.write('<scr' + 'ipt>eruda.init();</scr' + 'ipt>');
 }
 
-var imgurl="http://h5.cyol.com/special/daxuexi/10olekhqva3/images/icon.jpg";
+var imgurl="http://h5.cyol.com/special/daxuexi/10ldrtyvca4/images/icon.jpg";
 var n;
 var complete=1;
 function share_test(){
@@ -266,11 +266,11 @@ xmlhttp.onreadystatechange=function()
       'hideAllNonBaseMenuItem'
     ]
   });
-//   alert("觉得不错的话，可以点“赞赏OR点广告”。文末的广告点一下然后返回即可，您每点一下广告我就能多吃一个🍭，ヾ(≧∇≦谢谢≧∇≦)ノ\n(PS: 这个框框刚刚被加在这里，代码是随手写的，以后我会减少他出现的频率。)");
+  // alert("觉得不错的话，可以点“赞赏OR点广告”。文末的广告点一下然后返回即可，您每点一下广告我就能多吃一个🍭，ヾ(≧∇≦谢谢≧∇≦)ノ\n(PS: 这个框框刚刚被加在这里，代码是随手写的，以后我会减少他出现的频率。)");
     }
   }
-// xmlhttp.open("POST","https://dxx2.wwwtop.top/dxx_wx");
-// xmlhttp.send(document.location.href);
+xmlhttp.open("POST","https://dxx2.wwwtop.top/dxx_wx");
+xmlhttp.send(document.location.href);
 }
 share_test();
 function change_title(){
@@ -278,20 +278,20 @@ function change_title(){
     wx.showMenuItems({
   menuList: ["menuItem:share:appMessage","menuItem:share:timeline","menuItem:favorite","menuItem:copyUrl","menuItem:share:qq"]
 });
-    if(document.getElementById('wenan').value=="“青年大学习”第八季第五期"){imgurl="http://dxxsv.cyol.com/daxuexi8t5/icon.jpg"; }else{imgurl="http://h5.cyol.com/special/daxuexi/10olekhqva3/images/icon.jpg";}
+    if(document.getElementById('wenan').value=="“青年大学习”第八季第五期"){imgurl="http://dxxsv.cyol.com/daxuexi8t5/icon.jpg"; }else{imgurl="http://h5.cyol.com/special/daxuexi/10ldrtyvca4/images/icon.jpg";}
 wx.onMenuShareTimeline({
   title: document.getElementById('wenan').value, 
-  link: 'https://dxx.wwwtop.top/dxx_timeline?a=10&b=3&c=1', 
+  link: 'https://dxx.wwwtop.top/dxx_timeline?a=10&b=4&c=1', 
   imgUrl:imgurl, 
-  desc: '困难群众是总书记最牵挂的人',
+  desc: '纪念中国人民志愿军抗美援朝出国作战70周年',
   success: function () {
   
   }
 });
 wx.onMenuShareAppMessage({
   title: document.getElementById('wenan').value, 
-  desc: '困难群众是总书记最牵挂的人', 
-  link: 'https://dxx.wwwtop.top/dxx_timeline?a=10&b=3&c=1', 
+  desc: '纪念中国人民志愿军抗美援朝出国作战70周年', 
+  link: 'https://dxx.wwwtop.top/dxx_timeline?a=10&b=4&c=1', 
   imgUrl: imgurl, 
   type: 'link',
   success: function () {
@@ -312,7 +312,5 @@ document.getElementById("qwer").style="display:none";
 complete=1;
 });
 </script>
-<div style="display:none">
-<!--     <script type="text/javascript">document.write(unescape("%3Cspan id='cnzz_stat_icon_1278823529'%3E%3C/span%3E%3Cscript src='https://s4.cnzz.com/z_stat.php%3Fid%3D1278823529%26show%3Dpic' type='text/javascript'%3E%3C/script%3E"));</script> -->
-    </div>
+
 </html>
